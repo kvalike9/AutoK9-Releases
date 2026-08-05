@@ -1,12 +1,13 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.5",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.3/AutoK9-v1.0.3.zip",
-  "sha256": "33dc239422b7a1c5754d8538e60da0e19f280e469dd07401760ec43c38eaab09",
-  "fileSize": 50958896,
-  "publishedAt": "2026-08-05T00:00:00+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.5/AutoK9-v1.0.5.zip",
+  "sha256": "604f99013262a21c97423b5c03b75c524157ad387ef1217a995845b0d316d4b1",
+  "fileSize": 50959107,
+  "publishedAt": "2026-08-05T20:43:00+07:00",
   "releaseNotes": [
-    "Cập nhật ảnh IconSuKien2",
-    "Cập nhật ảnh NhanThuong của Sự kiện 2"
+    "Thêm phân quyền Admin cho chức năng đăng Redeem Code",
+    "Ẩn giao diện upload Code đối với tài khoản Member",
+    "Kiểm tra quyền Admin trực tiếp trên máy chủ trước khi ghi Code"
   ]
 }
