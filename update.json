@@ -1,12 +1,13 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.6/AutoK9-v1.0.6.zip",
-  "sha256": "5f2f8a24d3d6decd4c351406688822a33890f2c5a7ea9b45b96cd12a31bf3f0d",
-  "fileSize": 50958893,
-  "publishedAt": "2026-08-05T21:32:19+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.7/AutoK9-v1.0.7.zip",
+  "sha256": "adcdc2b0a63b89c018bbe1d1e3b2f4f39afa6ba2b5687552d67fe7474fd2a296",
+  "fileSize": 50961587,
+  "publishedAt": "2026-08-05T23:08:12+07:00",
   "releaseNotes": [
-    "Khôi phục trang Redeem Code cho mọi tài khoản có license hợp lệ",
-    "Loại bỏ phân quyền Admin/Member khỏi chức năng đăng Code"
+    "Tự động chụp ảnh trước khi nhấn Chưa có hàng",
+    "Lưu ảnh theo từng thiết bị và ngày giờ trong thư mục Config",
+    "Thêm tab Thiếu hàng để lọc và xem ảnh theo từng Nox"
   ]
 }
