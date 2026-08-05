@@ -1,13 +1,13 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.1/AutoK9-v1.0.1.zip",
-  "sha256": "850cc6fde6dd64b773c7af9394c102a731c3720c3165e971b3efe6dde22ed071",
-  "fileSize": 50958838,
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.2/AutoK9-v1.0.2.zip",
+  "sha256": "7fa2b4ffc86383716cdcb68c754d8ef70cfaf4d0f76c80c4094ad8b5feecc965",
+  "fileSize": 50959711,
   "publishedAt": "2026-08-05T00:00:00+07:00",
   "releaseNotes": [
-    "Thêm thanh chào mừng Member trên Dashboard",
-    "Hiển thị phiên bản và trạng thái cập nhật",
-    "Thêm nút kiểm tra cập nhật trực tiếp"
+    "Tự động giữ License Key sau khi cập nhật",
+    "Khôi phục key từ cấu hình phiên bản cũ",
+    "Không cần kích hoạt lại ở các lần cập nhật sau"
   ]
 }
