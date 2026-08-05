@@ -1,13 +1,12 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.5/AutoK9-v1.0.5.zip",
-  "sha256": "604f99013262a21c97423b5c03b75c524157ad387ef1217a995845b0d316d4b1",
-  "fileSize": 50959107,
-  "publishedAt": "2026-08-05T20:43:00+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.6/AutoK9-v1.0.6.zip",
+  "sha256": "5f2f8a24d3d6decd4c351406688822a33890f2c5a7ea9b45b96cd12a31bf3f0d",
+  "fileSize": 50958893,
+  "publishedAt": "2026-08-05T21:32:19+07:00",
   "releaseNotes": [
-    "Thêm phân quyền Admin cho chức năng đăng Redeem Code",
-    "Ẩn giao diện upload Code đối với tài khoản Member",
-    "Kiểm tra quyền Admin trực tiếp trên máy chủ trước khi ghi Code"
+    "Khôi phục trang Redeem Code cho mọi tài khoản có license hợp lệ",
+    "Loại bỏ phân quyền Admin/Member khỏi chức năng đăng Code"
   ]
 }
