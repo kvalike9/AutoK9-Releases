@@ -1,13 +1,15 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.8/AutoK9-v1.0.8.zip",
-  "sha256": "20d0d42f3d8ce03c9e7483b95a52e4ce66349761387588fd456374cb70b06229",
-  "fileSize": 50961603,
-  "publishedAt": "2026-08-06T06:31:44+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.9/AutoK9-v1.0.9.zip",
+  "sha256": "80444956025ac1d0f13fa7f5059e7f8bae1c48bee096b89e7938b69ab97497d7",
+  "fileSize": 50961776,
+  "publishedAt": "2026-08-06T08:28:28+07:00",
   "releaseNotes": [
-    "Sửa Sự kiện 2 bị treo sau khi vào màn sự kiện",
-    "Luôn nhấn Back ít nhất một lần trước khi kiểm tra màn hình chính",
-    "Thêm phục hồi về Main nếu Back nhiều lần vẫn chưa thoát"
+    "Cố định tiêu đề Tổng quan, thanh chào mừng và ba nút điều khiển khi cuộn",
+    "Thanh cuộn Dashboard chỉ tác động từ biểu đồ thời gian thực trở xuống",
+    "Khách xanh chờ 2 giây trước khi nhấn Giao",
+    "Khách đỏ chờ 2 giây trước khi chụp và nhấn Chưa có hàng",
+    "Khách vàng có khoảng nghỉ ổn định giữa các bước Đến làm và Làm"
   ]
 }
