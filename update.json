@@ -1,15 +1,13 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.9/AutoK9-v1.0.9.zip",
-  "sha256": "80444956025ac1d0f13fa7f5059e7f8bae1c48bee096b89e7938b69ab97497d7",
-  "fileSize": 50961776,
-  "publishedAt": "2026-08-06T08:28:28+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.10/AutoK9-v1.0.10.zip",
+  "sha256": "9df0223424af0bf1651bb706155f3d91950fb0db96689d160d6b084253cec386",
+  "fileSize": 50962051,
+  "publishedAt": "2026-08-06T08:53:40+07:00",
   "releaseNotes": [
-    "Cố định tiêu đề Tổng quan, thanh chào mừng và ba nút điều khiển khi cuộn",
-    "Thanh cuộn Dashboard chỉ tác động từ biểu đồ thời gian thực trở xuống",
-    "Khách xanh chờ 2 giây trước khi nhấn Giao",
-    "Khách đỏ chờ 2 giây trước khi chụp và nhấn Chưa có hàng",
-    "Khách vàng có khoảng nghỉ ổn định giữa các bước Đến làm và Làm"
+    "Khách vàng chờ 2 giây trước khi tìm và nhấn Đến làm",
+    "Đóng gói toàn bộ 104 ảnh automation mới nhất",
+    "Bao gồm các điều chỉnh thời gian Tiếp khách và giao diện Dashboard cố định"
   ]
 }
