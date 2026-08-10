@@ -1,18 +1,14 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.12/AutoK9-v1.0.12.zip",
-  "sha256": "51c37c0b802d8716e5132600566b4e48014b3a69b69ea31c0598e3b42e4e9b12",
-  "fileSize": 93133277,
-  "publishedAt": "2026-08-10T14:21:46+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.13/AutoK9-v1.0.13.zip",
+  "sha256": "3b732ab1ef30dadec5d338e6f1319c428788c848df4dfb095d4975e444435023",
+  "fileSize": 92055457,
+  "publishedAt": "2026-08-10T14:36:20+07:00",
   "releaseNotes": [
-    "Thêm tab TikTok LIVE đọc toàn bộ bình luận công khai theo thời gian thực ở chế độ guest",
-    "Thêm TikTokCommentService dùng chung, mặc định tắt và tự đóng khi ngắt LIVE hoặc thoát AutoK9",
-    "Tự nối lại luồng bình luận, tự cuộn tới bình luận mới nhất và hiển thị trạng thái service trên Tổng quan",
-    "Nhận diện Code dựa trên lịch sử JSON 30 ngày, hỗ trợ dạng Code, @Code và Code kèm biểu tượng",
-    "Thêm ô kết quả nhận diện, đánh dấu thủ công từ bình luận và đồng bộ Code nhanh trong 30 phút",
-    "Thêm danh sách người từng phát Code với chức năng thêm, sửa, xóa, ghi chú và thống kê Code",
-    "Tối ưu giao diện TikTok cho Light/Dark, tăng vùng xem bình luận và căn chỉnh lại thanh điều hướng",
-    "Bao gồm 106 ảnh automation hiện tại và Node runtime tự chứa; máy khách không cần cài Node.js"
+    "Thêm tab Hướng dẫn đọc trực tiếp file guide.md từ GitHub",
+    "Hỗ trợ làm mới nội dung hướng dẫn mà không cần cập nhật ứng dụng",
+    "Tự lưu cache hướng dẫn trong Config để vẫn đọc được khi mất mạng",
+    "Tối ưu nội dung hướng dẫn tập trung vào cấu hình và vận hành Auto"
   ]
 }
