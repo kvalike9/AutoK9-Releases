@@ -1,14 +1,14 @@
 {
-    "version":  "1.0.16",
+    "version":  "1.0.17",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.16/AutoK9-v1.0.16.zip",
-    "sha256":  "c28323f179293e089a6cdd8e616df880af5eb099010f746b77b9b95aca064069",
-    "fileSize":  93163106,
-    "publishedAt":  "2026-08-10T19:50:00+07:00",
+    "downloadUrl":  "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.17/AutoK9-v1.0.17.zip",
+    "sha256":  "9211b06a2c60ce52587abaed3e58589e4716621323aed0137c84d15ac6d94db2",
+    "fileSize":  93163920,
+    "publishedAt":  "2026-08-10T20:33:55+07:00",
     "releaseNotes":  [
-                         "Sau xác nhận không hiện thưởng sẽ tính một lần Code lỗi",
-                         "Đủ 3 lần lỗi, Code được bỏ qua riêng trên thiết bị đó",
-                         "Kiểm tra ảnh thưởng lần cuối trước khi ghi nhận lỗi",
-                         "Giữ tối ưu sao chép Code và toàn bộ cải tiến TikTok LIVE"
+                         "Không đăng lại Code đã có trong lịch sử",
+                         "Chặn Code trùng cho đăng thủ công, đăng nhanh và TikTok tự động",
+                         "Xử lý CODE_EXISTS từ server để Auto không gửi lặp",
+                         "Sau xác nhận không hiện thưởng, đủ 3 lần lỗi sẽ bỏ qua Code theo thiết bị"
                      ]
 }
