@@ -1,14 +1,15 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.13/AutoK9-v1.0.13.zip",
-  "sha256": "3b732ab1ef30dadec5d338e6f1319c428788c848df4dfb095d4975e444435023",
-  "fileSize": 92055457,
-  "publishedAt": "2026-08-10T14:36:20+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.14/AutoK9-v1.0.14.zip",
+  "sha256": "7046f10012b6aa49b3ebc3f79bcb63b127c4933e561511e040a4de64bf5155e3",
+  "fileSize": 92059530,
+  "publishedAt": "2026-08-10T17:24:59+07:00",
   "releaseNotes": [
-    "Thêm tab Hướng dẫn đọc trực tiếp file guide.md từ GitHub",
-    "Hỗ trợ làm mới nội dung hướng dẫn mà không cần cập nhật ứng dụng",
-    "Tự lưu cache hướng dẫn trong Config để vẫn đọc được khi mất mạng",
-    "Tối ưu nội dung hướng dẫn tập trung vào cấu hình và vận hành Auto"
+    "Thêm hệ thống thông báo Fluent đồng bộ Light và Dark Mode",
+    "Thay MessageBox bằng Snackbar cho thông báo nhanh và ContentDialog cho xác nhận quan trọng",
+    "Chuyển Snackbar sang góc dưới bên phải để không che nội dung chính",
+    "Thêm hướng dẫn sử dụng đọc trực tiếp từ GitHub và cache khi ngoại tuyến",
+    "Đóng gói đầy đủ ảnh automation và dịch vụ TikTok LIVE"
   ]
 }
