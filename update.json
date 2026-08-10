@@ -1,15 +1,14 @@
 {
-  "version": "1.0.14",
-  "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.14/AutoK9-v1.0.14.zip",
-  "sha256": "7046f10012b6aa49b3ebc3f79bcb63b127c4933e561511e040a4de64bf5155e3",
-  "fileSize": 92059530,
-  "publishedAt": "2026-08-10T17:24:59+07:00",
-  "releaseNotes": [
-    "Thêm hệ thống thông báo Fluent đồng bộ Light và Dark Mode",
-    "Thay MessageBox bằng Snackbar cho thông báo nhanh và ContentDialog cho xác nhận quan trọng",
-    "Chuyển Snackbar sang góc dưới bên phải để không che nội dung chính",
-    "Thêm hướng dẫn sử dụng đọc trực tiếp từ GitHub và cache khi ngoại tuyến",
-    "Đóng gói đầy đủ ảnh automation và dịch vụ TikTok LIVE"
-  ]
+    "version":  "1.0.15",
+    "mandatory":  false,
+    "downloadUrl":  "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.15/AutoK9-v1.0.15.zip",
+    "sha256":  "16cf019a9c08fb68fcc2af458dfe38f21f92ea22484a76aa9143793cd1350ca2",
+    "fileSize":  93163146,
+    "publishedAt":  "2026-08-10T19:25:46+07:00",
+    "releaseNotes":  [
+                         "Sao chép Code phản hồi ngay, không còn chờ thông báo",
+                         "Retry Clipboard nhanh và ổn định hơn",
+                         "Code lỗi 3 lần sẽ được bỏ qua riêng theo từng thiết bị",
+                         "Cập nhật bố cục TikTok LIVE và tổng hợp Code từ nhiều user"
+                     ]
 }
