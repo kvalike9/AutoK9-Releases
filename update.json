@@ -1,17 +1,16 @@
 {
-  "version": "1.0.36",
+  "version": "1.0.37",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.36/AutoK9-v1.0.36.zip",
-  "sha256": "47100772ecb84745db555ea8b63d0f49b1be28fd6a6d40184a027d982de37bd1",
-  "fileSize": 60029906,
-  "publishedAt": "2026-08-11T19:08:35+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.37/AutoK9-v1.0.37.zip",
+  "sha256": "1004991643d1b1e729fe4ab5c343ab07c4162e94bfa7d2cfe0d08af5ef261d3b",
+  "fileSize": 95552729,
+  "publishedAt": "2026-08-11T19:19:16+07:00",
   "releaseNotes": [
-    "Chống gửi trùng Code Zalo sau khi khởi động lại",
-    "Lưu lịch sử ngay sau từng người nhận gửi thành công",
-    "Sửa updater bị khóa bởi dịch vụ Node và tự mở lại AutoK9",
-    "Updater có thể tự thay thế an toàn từ thư mục tạm",
-    "Thêm lọc người nhận chưa chọn và cân đều nút tài khoản Zalo",
-    "Bổ sung card trạng thái Zalo trên Tổng quan",
-    "Tối ưu danh sách người nhận bằng ToggleSwitch và Light/Dark mode"
+    "Updater tự kiểm tra AutoK9 và các dịch vụ phụ đang chạy",
+    "Tự yêu cầu đóng và cưỡng chế dừng tiến trình nếu cần",
+    "Chỉ cập nhật sau khi xác nhận các file quan trọng đã hết khóa",
+    "Tự dừng Node TikTok và Zalo thuộc đúng thư mục AutoK9",
+    "Tự thử lại file bị khóa và mở lại AutoK9 sau cập nhật",
+    "Gói Full bao gồm Node.js, dùng được cho cả máy mới"
   ]
 }
