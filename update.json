@@ -1,15 +1,17 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.36",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.34/AutoK9-v1.0.34.zip",
-  "sha256": "398a457c85cf5f282cd8db206ed44934e2779de4b5b33f6a7fe6fd81b445b6c4",
-  "fileSize": 95549510,
-  "publishedAt": "2026-08-11T18:50:59+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.36/AutoK9-v1.0.36.zip",
+  "sha256": "47100772ecb84745db555ea8b63d0f49b1be28fd6a6d40184a027d982de37bd1",
+  "fileSize": 60029906,
+  "publishedAt": "2026-08-11T19:08:35+07:00",
   "releaseNotes": [
-    "Thêm bộ lọc người nhận Zalo chưa chọn",
-    "Cân đều kích thước nút Tạo QR đăng nhập và Đăng xuất",
-    "Bổ sung card trạng thái Zalo trên trang Tổng quan",
-    "Danh sách người nhận Zalo sử dụng ToggleSwitch và tối ưu Light/Dark mode",
-    "Sửa cuộn chuột trong nội dung Hướng dẫn và bổ sung lịch sử phiên bản"
+    "Chống gửi trùng Code Zalo sau khi khởi động lại",
+    "Lưu lịch sử ngay sau từng người nhận gửi thành công",
+    "Sửa updater bị khóa bởi dịch vụ Node và tự mở lại AutoK9",
+    "Updater có thể tự thay thế an toàn từ thư mục tạm",
+    "Thêm lọc người nhận chưa chọn và cân đều nút tài khoản Zalo",
+    "Bổ sung card trạng thái Zalo trên Tổng quan",
+    "Tối ưu danh sách người nhận bằng ToggleSwitch và Light/Dark mode"
   ]
 }
