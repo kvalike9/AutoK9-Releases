@@ -1,17 +1,16 @@
 {
-  "version": "1.0.38",
+  "version": "1.0.40",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.38/AutoK9-v1.0.38.zip",
-  "sha256": "fa446d3ae91fe3c1f9c44dec7f636867bef6a8eb6d23de0ec764726844db53f6",
-  "fileSize": 95553778,
-  "publishedAt": "2026-08-11T19:58:20+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.40/AutoK9-v1.0.40.zip",
+  "sha256": "038452be779a3f3537621e47379f2daa1ddb08c316dc17231f21a054ebfba004",
+  "fileSize": 94804748,
+  "publishedAt": "2026-08-12T11:25:33+07:00",
   "releaseNotes": [
-    "Chỉ gửi Code qua Zalo khi đủ số người TikTok khác nhau xác nhận",
-    "Cho phép chọn ngưỡng 2, 3 hoặc 5 người",
-    "Một tài khoản bình luận nhiều lần vẫn chỉ được tính một người",
-    "Lưu ngưỡng gửi Zalo qua các lần khởi động",
-    "Chống gửi trùng Zalo bền vững theo từng người nhận",
-    "Updater tự dừng AutoK9 và dịch vụ Node trước khi cập nhật",
-    "Gói Full bao gồm Node.js, dùng được cho cả máy mới"
+    "Phân quyền Admin theo Role từ Supabase",
+    "Member không thể mở Công cụ, Upload Code, TikTok, Zalo và Tọa độ",
+    "Ứng dụng gửi đúng phiên bản hiện tại lên backend thay vì 1.0.0",
+    "Updater giữ nguyên cấu hình, thống kê và lịch sử riêng của từng máy",
+    "Backend.json được đồng bộ để mọi thiết bị sử dụng Supabase",
+    "Gói Full kèm dịch vụ TikTok và Zalo, không chứa phiên đăng nhập cá nhân"
   ]
 }
