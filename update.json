@@ -1,16 +1,16 @@
 {
-  "version": "1.0.40",
+  "version": "1.0.41",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.40/AutoK9-v1.0.40.zip",
-  "sha256": "038452be779a3f3537621e47379f2daa1ddb08c316dc17231f21a054ebfba004",
-  "fileSize": 94804748,
-  "publishedAt": "2026-08-12T11:25:33+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.41/AutoK9-v1.0.41.zip",
+  "sha256": "2435389f8e80a059bde1334846739716240a3574a540b4dfd0ff0b0192881c20",
+  "fileSize": 94806040,
+  "publishedAt": "2026-08-12T13:57:17+07:00",
   "releaseNotes": [
-    "Phân quyền Admin theo Role từ Supabase",
-    "Member không thể mở Công cụ, Upload Code, TikTok, Zalo và Tọa độ",
-    "Ứng dụng gửi đúng phiên bản hiện tại lên backend thay vì 1.0.0",
-    "Updater giữ nguyên cấu hình, thống kê và lịch sử riêng của từng máy",
-    "Backend.json được đồng bộ để mọi thiết bị sử dụng Supabase",
-    "Gói Full kèm dịch vụ TikTok và Zalo, không chứa phiên đăng nhập cá nhân"
+    "Treo Bình và Gỡ Bình xác nhận màn hình trước khi kiểm tra trạng thái",
+    "Dùng tọa độ cố định có thể cấu hình cho Kệ Hoa 1, 2 và 3",
+    "Đồng bộ vùng trạng thái Gỡ Bình với vùng trạng thái Treo Bình",
+    "Sửa kết quả Gỡ Bình luôn trả về sai dù đã gỡ thành công",
+    "Giảm log Treo Bình và Gỡ Bình, chỉ giữ các mốc vận hành quan trọng",
+    "Gói Full giữ nguyên Config, thống kê, lịch sử Code và phiên Zalo trên máy cập nhật"
   ]
 }
