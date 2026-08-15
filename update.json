@@ -1,16 +1,13 @@
 {
-  "version": "1.0.41",
+  "version": "1.0.43",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.41/AutoK9-v1.0.41.zip",
-  "sha256": "2435389f8e80a059bde1334846739716240a3574a540b4dfd0ff0b0192881c20",
-  "fileSize": 94806040,
-  "publishedAt": "2026-08-12T13:57:17+07:00",
+  "downloadUrl": "https://github.com/kvalike9/AutoK9-Releases/releases/download/v1.0.43/AutoK9-v1.0.43.zip",
+  "sha256": "5fe4b196a3df2518c9a62ece731af393378d9e9e8d983bd0f297c8d0c3f2ad77",
+  "fileSize": 96922333,
+  "publishedAt": "2026-08-15T19:42:00+07:00",
   "releaseNotes": [
-    "Treo Bình và Gỡ Bình xác nhận màn hình trước khi kiểm tra trạng thái",
-    "Dùng tọa độ cố định có thể cấu hình cho Kệ Hoa 1, 2 và 3",
-    "Đồng bộ vùng trạng thái Gỡ Bình với vùng trạng thái Treo Bình",
-    "Sửa kết quả Gỡ Bình luôn trả về sai dù đã gỡ thành công",
-    "Giảm log Treo Bình và Gỡ Bình, chỉ giữ các mốc vận hành quan trọng",
-    "Gói Full giữ nguyên Config, thống kê, lịch sử Code và phiên Zalo trên máy cập nhật"
+    "Sửa Code mới bị bỏ qua vì cờ Active từ máy chủ trả về sai hoặc trễ.",
+    "Auto xác định hiệu lực theo thời gian bắt đầu và kết thúc thực tế.",
+    "Sau khi Code lỗi đủ 3 lần, chuyển ngay sang Code kế tiếp."
   ]
 }
